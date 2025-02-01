@@ -1,5 +1,7 @@
 Config = {}
 
+--> if you want to add a skill system then you can add it in the server/main.lua
+
 Config.UseLogger = true --> only set this to true if you want to use webhooks (basic script is DFNZ_LOGGER if you want to use antoher one edit it in server/edit.lua)
 Config.UseDialog = true --> only set this to true if you use DFNZ_DIALOG
 Config.PayAccount = 'money' --> choose betwenn money, bank or black_money
